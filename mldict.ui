@@ -39,7 +39,7 @@
     <item>
      <widget class="QCheckBox" name="exactMatch">
       <property name="text">
-       <string>Exact mactch</string>
+       <string>Exact Match</string>
       </property>
      </widget>
     </item>

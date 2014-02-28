@@ -6,7 +6,7 @@
     <message>
         <location filename="mldict.ui" line="14"/>
         <source>Malayalam Dictionary</source>
-        <translation>മലയാള നിഘണ്ടു</translation>
+        <translation>മലയാളം നിഘണ്ടു</translation>
     </message>
     <message>
         <location filename="mldict.ui" line="23"/>
@@ -20,7 +20,7 @@
     </message>
     <message>
         <location filename="mldict.ui" line="42"/>
-        <source>Exact mactch</source>
+        <source>Exact Match</source>
         <translation>കൃത്യമായ ചേർച്ച</translation>
     </message>
     <message utf8="true">
@@ -147,7 +147,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="mldict.cpp" line="41"/>
         <location filename="mldict.cpp" line="42"/>
-        <source>Please enter a serach string</source>
+        <source>Please Enter a Search String</source>
         <translation>തിരയാനുള്ള വാക്ക് നല്കുക</translation>
     </message>
     <message>
@@ -157,7 +157,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="mldict.cpp" line="128"/>
-        <source>No results Found for %1</source>
+        <source>No Results Found for %1</source>
         <translation>%1: വ്യാഖ്യാനങ്ങൾ ലഭ്യമല്ല</translation>
     </message>
     <message>
