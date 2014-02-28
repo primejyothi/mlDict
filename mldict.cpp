@@ -56,8 +56,8 @@ void MlDict::on_search_clicked()
     QString keyword = ui->searchTerm->text();
     if (keyword.isEmpty())
     {
-        ui->resultBox->setPlainText(tr("Please enter a serach string"));
-        ui->statusBar->showMessage(tr("Please enter a serach string"));
+        ui->resultBox->setPlainText(tr("Please Enter a Search String"));
+        ui->statusBar->showMessage(tr("Please Enter a Search String"));
         return;
     }
 
@@ -143,7 +143,7 @@ void MlDict::on_search_clicked()
     QString tmp;
     if (i == 0)
     {
-        tmp = QString (tr ("No results Found for %1")) .arg(keyword);
+        tmp = QString (tr ("No Results Found for %1")) .arg(keyword);
         ui->resultBox->setPlainText(tr("No data found"));
         ui->statusBar->showMessage(tmp);
     }
